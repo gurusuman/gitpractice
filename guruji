@@ -1,0 +1,6 @@
+#!/bin/sh
+cd /home/gitpractice
+git clone https://github.com/gurusuman/darling-.git
+rm -rf darling-
+git add .
+git commit -m "commit the file"
